@@ -1,0 +1,9 @@
+# KiCad temporary files
+*.bak *.bck *~ *_autosave-* *.tmp
+*.kicad_pcb-bak *.sch-bak
+*-save.pro *-save.kicad_pcb
+fp-info-cache
+
+# Generated files
+*.net  # Netlists
+*.dsn *.ses  # Autorouter files
