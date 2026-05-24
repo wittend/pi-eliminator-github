@@ -7,3 +7,13 @@ fp-info-cache
 # Generated files
 *.net  # Netlists
 *.dsn *.ses  # Autorouter files
+
+# Project specific backups
+*-backups/
+
+# Sphinx documentation
+docs/_build/
+
+# OS files
+.DS_Store
+Thumbs.db

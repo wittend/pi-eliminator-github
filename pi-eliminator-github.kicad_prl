@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 43,
     "active_layer_preset": "All Layers",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -75,33 +75,33 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "pi-eliminator.kicad_prl",
+    "filename": "pi-eliminator-github.kicad_prl",
     "version": 3
   },
   "project": {
     "files": [
       {
-        "name": "pi-eliminator.kicad_sch",
-        "open": false,
+        "name": "pi-eliminator-github.kicad_sch",
+        "open": true,
         "window": {
           "display": 0,
           "maximized": true,
           "pos_x": 811,
-          "pos_y": 467,
+          "pos_y": 545,
           "size_x": 1280,
           "size_y": 868
         }
       },
       {
-        "name": "pi-eliminator.kicad_pcb",
-        "open": false,
+        "name": "pi-eliminator-github.kicad_pcb",
+        "open": true,
         "window": {
           "display": 0,
           "maximized": true,
           "pos_x": 1280,
-          "pos_y": 37,
+          "pos_y": 74,
           "size_x": 1280,
-          "size_y": 686
+          "size_y": 604
         }
       }
     ]

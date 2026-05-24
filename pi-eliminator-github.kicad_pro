@@ -64,13 +64,9 @@
         "duplicate_footprints|112600000|97900000|f039e675-c092-482e-abac-46e85966806a|10d55fff-88e6-4678-8417-9d1cedd5562a",
         "duplicate_footprints|112700000|74800000|1390d036-762b-4eee-963b-0779576a00cf|10d55fff-88e6-4678-8417-9d1cedd5562a",
         "duplicate_footprints|170800000|74600000|f9c70e6b-caf6-479c-a9a8-0b38beaa86ba|10d55fff-88e6-4678-8417-9d1cedd5562a",
-        "duplicate_footprints|174500000|85300000|896b56fa-014b-4866-97cb-564157cabf3f|10d55fff-88e6-4678-8417-9d1cedd5562a",
-        "duplicate_footprints|174700000|100500000|780b0845-388d-488b-8337-b5423506d6f1|10d55fff-88e6-4678-8417-9d1cedd5562a",
         "duplicate_footprints|175100000|67800000|7da777b8-910c-4dd8-8295-5d500f760979|10d55fff-88e6-4678-8417-9d1cedd5562a",
         "lib_footprint_mismatch|141825000|74625000|56c73853-f2b4-4624-8ff7-dc987f5abf7e|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_mismatch|151320000|85400000|6b0b0355-5f8e-4f08-a9ce-b4c8127d2ac3|00000000-0000-0000-0000-000000000000",
-        "net_conflict|113200000|87800000|e9887891-500d-4439-a139-3d882ee7945b|00000000-0000-0000-0000-000000000000",
-        "net_conflict|113200000|87800000|fcdc6123-46b7-4e0e-8f98-1f4fe587452c|00000000-0000-0000-0000-000000000000"
+        "lib_footprint_mismatch|151320000|85400000|6b0b0355-5f8e-4f08-a9ce-b4c8127d2ac3|00000000-0000-0000-0000-000000000000"
       ],
       "meta": {
         "version": 2
@@ -457,7 +453,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "pi-eliminator.kicad_pro",
+    "filename": "pi-eliminator-github.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -525,7 +521,7 @@
     },
     "bom_presets": [],
     "bom_settings": {
-      "exclude_dnp": true,
+      "exclude_dnp": false,
       "fields_ordered": [
         {
           "group_by": false,
@@ -613,7 +609,7 @@
         }
       ],
       "filter_string": "",
-      "group_symbols": true,
+      "group_symbols": false,
       "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
