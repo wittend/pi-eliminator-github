@@ -18,6 +18,7 @@ The Pi-Eliminator is designed to interface with SDR hardware, specifically relat
 
 Documentation is prepared for ReadTheDocs and can be found in the `docs/` folder.
 
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
