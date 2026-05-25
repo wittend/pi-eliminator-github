@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/pi-eliminator-github.iml" filepath="$PROJECT_DIR$/.idea/pi-eliminator-github.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pi-eliminator/.idea/pi-eliminator-github.iml" filepath="$PROJECT_DIR$/../pi-eliminator/.idea/pi-eliminator-github.iml" />
     </modules>
   </component>
 </project>
