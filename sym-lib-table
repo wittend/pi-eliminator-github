@@ -1,4 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "JST-SH4 Qwiic")(type "KiCad")(uri "${KIPRJMOD}/Local Resources/JST/SM04B-SRSS-TB_LF__SN_.kicad_sym")(options "")(descr ""))
-)

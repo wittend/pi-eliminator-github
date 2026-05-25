@@ -1,7 +1,0 @@
-Notes from 2023-06-06 Teamspeak session
-//======================================
-Data stored in DigitalRF Format.
-
-Keung - DataRF (Rob) -> Web
-
-Set up discussion with Majid.

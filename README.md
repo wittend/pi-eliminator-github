@@ -1,4 +1,4 @@
-# pi-eliminator-github
+# pi-eliminator
 
 Hardware design for the Pi-Eliminator, a component of the Personal Space Weather Station (PSWS) project.
 
@@ -21,3 +21,4 @@ Documentation is prepared for ReadTheDocs and can be found in the `docs/` folder
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
