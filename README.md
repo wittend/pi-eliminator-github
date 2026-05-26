@@ -8,8 +8,8 @@ The Pi-Eliminator is designed to interface with SDR hardware, specifically relat
 
 ## Project Structure
 
-- `pi-eliminator-github.kicad_sch`: Schematic file.
-- `pi-eliminator-github.kicad_pcb`: PCB layout file.
+- `pi-eliminator.kicad_sch`: Schematic file.
+- `pi-eliminator.kicad_pcb`: PCB layout file.
 - `production/`: Manufacturing files (BOM, Gerbers, etc.).
 - `Local Resources/`: Datasheets, design notes, and reference bitmaps.
 - `docs/`: Documentation for ReadTheDocs.
