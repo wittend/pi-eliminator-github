@@ -5,10 +5,11 @@ Welcome to pi-eliminator-github's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-Introduction
-============
-
-This project contains the hardware design for the Pi-Eliminator.
+   introduction
+   getting_started
+   design
+   contributing
+   license
 
 Indices and tables
 ==================
