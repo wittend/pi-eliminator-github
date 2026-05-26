@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "PSWS Pi Eliminator for use with PCs")
-		(date "2025-10-29")
+		(date "2026-05-26")
 		(rev "0.1.1")
 		(comment 1 "Dave Witten, KD0EAG")
 	)
