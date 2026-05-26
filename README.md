@@ -16,7 +16,7 @@ The Pi-Eliminator is designed to interface with SDR hardware, specifically relat
 
 ## Documentation
 
-Documentation is prepared for ReadTheDocs and can be found in the `docs/` folder.
+Documentation is prepared for ReadTheDocs and can be found in the `docs/` folder. It covers project requirements, objectives, hardware design, and assembly/setup guides.
 
 
 ## License

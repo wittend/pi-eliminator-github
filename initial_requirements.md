@@ -13,7 +13,7 @@
 - to provide the necessary information to deploy this hardware into field situations for its intended purposes.
 
 ### Creating the setup from scratch
-While many users may chose to purchase assembled or partly-assemblied kits from sources such as the TAPR store, the intent here is to provide all information necessary to fabricate and assemble this project from scratch for modification and ebellishment to meet unique needs.
+While many users may chose to purchase assembled or partly-assembled kits from sources such as the TAPR store, the intent here is to provide all information necessary to fabricate and assemble this project from scratch for modification and ebellishment to meet unique needs.
 Included material.
 - CAD artifacts
 - Images

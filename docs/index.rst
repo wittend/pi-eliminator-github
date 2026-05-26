@@ -5,6 +5,7 @@ Welcome to pi-eliminator-github's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   requirements
    introduction
    getting_started
    design
