@@ -91,6 +91,18 @@
           "size_x": 1280,
           "size_y": 546
         }
+      },
+      {
+        "name": "pi-eliminator.kicad_sch",
+        "open": false,
+        "window": {
+          "display": 0,
+          "maximized": true,
+          "pos_x": 811,
+          "pos_y": 508,
+          "size_x": 1280,
+          "size_y": 868
+        }
       }
     ]
   }
